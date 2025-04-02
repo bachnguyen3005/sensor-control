@@ -1,6 +1,8 @@
 # sensor-control
 Visual servoing with UR5 project
 
+[Video demo: Visual servoing with UR5 arm]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/2KWZNxD7UUA))
+
 # realsense_ur5 
 A package that contain a node to calculate publish the pose as the solution of IK from the RoboticsToolBox. 
 This package is written for ROS-NOETIC
